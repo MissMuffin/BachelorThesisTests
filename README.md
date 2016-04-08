@@ -1,0 +1,4 @@
+# BachelorThesisTests
+
+Contains:
+*Timer
