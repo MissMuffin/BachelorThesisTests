@@ -2,8 +2,14 @@
     <string name="app_name">Thesis Tests</string>
 
     //TIMER
-    <string name="timerVal">00:00:00</string>
-    <string name="pauseButtonLabel">Pause</string>
+    <string name="timerVal">0:00:00:000</string>
+    <string name="resetButtonLabel">Reset</string>
     <string name="startButtonLabel">Start</string>
+    <string name="startButtonLabelRunning">Pause</string>
+    <string name="addSecondsButtonLabel">Add 10 seconds</string>
+    <string name="addMinutesButtonLabel">Add 10 minutes</string>
+    <string name="addHourButtonLabel">Add 1 hour</string>
+    <string name="addHoursButtonLabel">Add 10 hours</string>
+    <string name="timerValueMold">"%1$d:%2$02d:%3$02d:%4$03d"</string>
 
 </resources>
